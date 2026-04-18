@@ -11,15 +11,6 @@
   - **Z-Agents** *(part of Zyberpol)*: the runtime & SDK that powers Zyberpol’s autonomous agents.  
   - Status: research preview; private code.
 
-- **KODEPO** — unified AI workspace for businesses.  
-  - Status: in development; private code.
-
-- **Falaric** — new product under exploration.  
-  - Status: discovery phase (details to be announced).
-
-- **Uninsu** — new product under exploration.  
-  - Status: discovery phase (details to be announced).
-
 > We’ll open up docs and code **incrementally** as components harden.
 
 ---
